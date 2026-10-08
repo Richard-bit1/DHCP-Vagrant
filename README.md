@@ -4,7 +4,7 @@ Este repositorio contiene la arquitectura de red y la configuración del servici
 
 ---
 
-## 📐 Arquitectura de Red
+##  Arquitectura de Red
 
 La topología está compuesta por tres máquinas virtuales sobre la red privada/interna `intnet` (`192.168.57.0/24`):
 
@@ -18,7 +18,7 @@ La topología está compuesta por tres máquinas virtuales sobre la red privada/
 
 ---
 
-## 🛠️ Explicación de los Archivos de Configuración
+##  Explicación de los Archivos de Configuración
 
 ### 1. `Vagrantfile`
 Define y despliega automáticamente el entorno virtualizado:
